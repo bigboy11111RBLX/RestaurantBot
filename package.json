@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord-buttons": "^3.2.1",
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3"
   }
 }

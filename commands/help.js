@@ -11,6 +11,7 @@ module.exports = {
             { name: '!help', value: 'Shows the commands' },
             { name: '!credits', value: 'Shows the credits with GitHub repo' },
             { name: '!ping', value: 'Pong' },
+            { name: '!list', value: 'Shows the list of restaurants.'},
         ) 
         .setTimestamp() //shows time of embed sent
         .setFooter('Help') //bottom footer of embed
